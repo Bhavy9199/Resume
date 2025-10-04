@@ -1,0 +1,38 @@
+.main1{
+    display: flex;
+    
+}
+#art1{
+    flex: 1;
+    background-color: rgb(56, 59, 102);
+    color: white;
+    
+   
+}
+img{
+    border: 2px black solid;
+    border-radius: 20px;
+    width: 200px;
+    align-items: center;
+
+    margin-left: 50px;
+   
+}
+.sec1{
+    flex: 2;
+    background-color: antiquewhite;
+}
+article hr{
+    margin-right: 200px;
+
+}
+.margin {
+    margin-left: 50px;
+}
+.secmargin{
+    margin-left: 50px;
+    
+}
+section hr{
+    margin-right: 50px;
+}
